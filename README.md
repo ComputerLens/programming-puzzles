@@ -6,3 +6,4 @@ Programming puzzles that look impossible, and the rules that make them work, fro
 |---|---|---|
 | [ep01](ep01) | C | 4 Ways to Make `x == x + 1` True in C |
 | [ep02](ep02) | Python, JavaScript, Java, Go | How Many NaNs Fit in a Set? (Python, JavaScript, Java, Go) |
+| [ep03](ep03) | C | BlackJack or JackBlack? Same C Code, Two Compilers |
